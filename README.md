@@ -1,8 +1,9 @@
+
 # 🤖 SentaraBot
 
 **SentaraBot** is an AI-based Discord moderation bot designed to maintain peace and order in your server. It monitors offensive messages, logs violations, and enforces server rules with automatic user suspensions after repeated offenses. Built with Node.js and PostgreSQL.
 
----
+
 
 ## 🛡️ Features
 
@@ -14,7 +15,7 @@
   - View offense history
   - Unsuspend users manually
 
----
+
 
 ## 📂 Project Structure
 
